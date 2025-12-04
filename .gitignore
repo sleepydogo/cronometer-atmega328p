@@ -1,0 +1,42 @@
+# Compiled files
+*.elf
+*.hex
+*.o
+*.d
+*.eep
+*.lss
+*.map
+*.sym
+
+# Debug folders
+Debug/
+Release/
+
+# Atmel Studio files
+*.atsln
+*.cproj
+*.componentinfo.xml
+*.atsuo
+
+# Proteus backup and workspace files
+Project Backups/
+*.workspace
+*.workspace.xml
+*.pdsprj.DESKTOP-*.workspace
+*.pdsprj.DESKTOP-*.workspace.xml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PDF files (reports, documentation)
+*.pdf
